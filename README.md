@@ -1,133 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi,%20I'm%20Tomy%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · pytom911</sub></p>
+<h1>Pytom_</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Freelancer | Website Developer</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<br/>
-
-<a href="https://instagram.com/pytom_911"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://tiktok.com/@pytom.dev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-<a href="mailto:tomipmgr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+modern%2C+responsive+web+apps;PHP+%2B+Laravel+%2F+React+%2F+Next.js+developer;Turning+ideas+into+real-world+products" alt="Typing SVG" />
-
+<p><a href="https://github.com/pytom911">GitHub</a> &nbsp;·&nbsp; <a href="https://www.pytomwebdev.my.id/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Pytom_ animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
+<h2>What teams can evaluate quickly</h2>
 
-## ✨ About Me
-
-> Junior Web Developer focused on building modern, responsive, and functional web applications — currently sharpening full-stack skills through real-world projects.
-
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · PHP · CSS · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>17 repositories · 21 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>149 contributions · 33 active days</p></td>
+</tr>
+</table>
 
-- 🌐 &nbsp;Build responsive websites & landing pages
-- ⚙️ &nbsp;Develop full-stack web applications
-- 🗄️ &nbsp;Build database-driven systems
-- 📱 &nbsp;Develop mobile apps with React Native
-- 🎨 &nbsp;Craft clean, modern user interfaces
-- 🔧 &nbsp;Build REST APIs & CRUD applications
+<p><sub>Freelancer | Website Developer</sub></p>
 
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>17</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>21</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>149</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Pytom_ GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&repos=pytom911%2Fweb-musholla%2Cpytom911%2FPytom911%2Cpytom911%2Fportfolio-next-js%2Cpytom911%2Fdemo-web-parfum&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&repos=pytom911%2Fweb-musholla%2Cpytom911%2FPytom911%2Cpytom911%2Fportfolio-next-js%2Cpytom911%2Fdemo-web-parfum&v=recruiter-projects-1&mode=dark" width="100%" alt="Pytom_ selected projects" />
+</picture>
 </td>
-<td width="40%" valign="top">
-
-```json
-{
-  "name": "Tomy",
-  "role": "Full-Stack Developer",
-  "stack": ["PHP", "Laravel", "React", "Next.js"],
-  "status": "leveling up 🚀",
-  "opentowork": true
-}
-```
-
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Pytom911/web-musholla">web-musholla</a></h3>
+<p>Project Web Musholla UKK</p>
+<p><sub>PHP · ⭐ 3 · 🍴 0</sub></p>
+<p><a href="https://github.com/Pytom911/web-musholla">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,react,nextjs,reactnative,tailwind,bootstrap,mysql,mariadb,apache,vercel,netlify,git,github&perline=9" />
-
-</div>
-
-<br/>
-
-## 💻 Featured Projects
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td width="33%">
-
-### 💰 Personal Finance Tracker
-Web app for managing personal finances — income & expense tracking, CRUD transactions, and financial summaries.
-
-`Laravel` `MySQL`
-
-</td>
-<td width="33%">
-
-### 🏢 Business Website
-Responsive company profile site with modern UI, WhatsApp integration, and SEO-friendly structure.
-
-`Next.js`
-
-</td>
-<td width="33%">
-
-### 🛒 Online Store
-Database-driven e-commerce app with product management, CRUD system, and admin dashboard.
-
-`PHP` `Laravel` `MySQL`
-
-</td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Pytom911/Pytom911">Pytom911</a></h3><p>Profile Github</p><p><sub>Open source · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Pytom911/portfolio-next-js">portfolio-next-js</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Pytom911/demo-web-parfum">demo-web-parfum</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 1</sub></p></td>
 </tr>
 </table>
 
-</div>
+<h2>Technical toolkit</h2>
 
-<br/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Pytom_ technology stack" />
+</picture>
+</p>
 
-## 📊 GitHub Stats
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>28% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>24% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>22% of public code</sub></td>
+<td width="20%" align="center"><strong>Blade</strong><br /><sub>13% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>7% of public code</sub></td>
+</tr>
+</table>
 
-<div align="center">
+<h2>Consistency signal</h2>
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Pytom911&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pytom911&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" />
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Pytom_ contribution activity" />
+</picture>
+</p>
 
-<br/>
+<hr />
 
-<img src="https://streak-stats.demolab.com/?user=Pytom911&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=c9d1d9" />
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/pytom911">GitHub</a><br /><a href="https://www.pytomwebdev.my.id/">Website</a></td>
+</tr>
+</table>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pytom911&theme=redical&hide_border=true&bg_color=0D1117&color=8B5CF6&line=6366F1&point=ffffff" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🌐 Let's Connect
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pytom_911)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@pytom.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomipmgr@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Pytom911&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center"><sub>Pytom_ · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
