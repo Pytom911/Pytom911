@@ -1,118 +1,35 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · pytom911</sub></p>
-<h1>Pytom_</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Freelancer | Website Developer</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:E4405F,100:8B0000&height=200&section=header&text=I'm%20Tomy,%20I'm%20PytomDev&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Development&descAlignY=55&descSize=20" width="100%"/>
 
-<p><a href="https://github.com/pytom911">GitHub</a> &nbsp;·&nbsp; <a href="https://www.pytomwebdev.my.id/">Website</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Pytom_ animated colored ASCII portrait" />
-</picture>
-</td>
-</tr>
-</table>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pytom_911) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pytom.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tomipmgr@gmail.com) 
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · PHP · CSS · HTML</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>17 repositories · 21 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>149 contributions · 33 active days</p></td>
-</tr>
-</table>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Pytom911&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Pytom911&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pytom911&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><sub>Freelancer | Website Developer</sub></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pytom911&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h2>Proof at a glance</h2>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>17</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>21</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>149</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>7</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Pytom911&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Pytom_ GitHub proof metrics" />
-</picture>
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=Pytom911&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2>Selected work</h2>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&repos=pytom911%2Fweb-musholla%2Cpytom911%2FPytom911%2Cpytom911%2Fportfolio-next-js%2Cpytom911%2Fdemo-web-parfum&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&repos=pytom911%2Fweb-musholla%2Cpytom911%2FPytom911%2Cpytom911%2Fportfolio-next-js%2Cpytom911%2Fdemo-web-parfum&v=recruiter-projects-1&mode=dark" width="100%" alt="Pytom_ selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Pytom911/web-musholla">web-musholla</a></h3>
-<p>Project Web Musholla UKK</p>
-<p><sub>PHP · ⭐ 3 · 🍴 0</sub></p>
-<p><a href="https://github.com/Pytom911/web-musholla">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Pytom911/Pytom911">Pytom911</a></h3><p>Profile Github</p><p><sub>Open source · ⭐ 2</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Pytom911/portfolio-next-js">portfolio-next-js</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 2</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Pytom911/demo-web-parfum">demo-web-parfum</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 1</sub></p></td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:E4405F,100:8B0000&height=150&section=footer" width="100%"/>
 
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Pytom_ technology stack" />
-</picture>
-</p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>PHP</strong><br /><sub>28% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>24% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>22% of public code</sub></td>
-<td width="20%" align="center"><strong>Blade</strong><br /><sub>13% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>7% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=pytom911&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186349907%3Fu%3Df00448282721bb43f8eab605ed6cb1c5ada9b62f%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Pytom_ contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/pytom911">GitHub</a><br /><a href="https://www.pytomwebdev.my.id/">Website</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Pytom_ · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
