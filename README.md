@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🌐 Socials
+##  Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pytom_911)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pytom.dev)
@@ -10,7 +10,7 @@
 
 <img src="https://render.gitanimals.org/lines/Pytom911?pet-id=657051833278790750" width="600" height="120" />
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <img src="https://github-readme-stats.shion.dev/api?username=Pytom911&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 <br/>
@@ -36,7 +36,7 @@
 <br/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pytom911&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
-## ✍️ Random Dev Quote
+##  Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
