@@ -1,5 +1,14 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=90&section=header&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+I'm+Pytom+Dev;Web+Development;Laravel+%7C+Next.JS" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Pytom911&color=8A2BE2&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/Pytom911?style=social"/>
+</p>
+
 ##  Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pytom_911)
