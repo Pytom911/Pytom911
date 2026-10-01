@@ -17,7 +17,14 @@
 
 <h1>Ngoding Dulu Yakan, Jagonya Belakangan!</h1>
 
-<img src="https://render.gitanimals.org/lines/Pytom911?pet-id=657051833278790750" width="600" height="120" />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Pytom911&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Pytom911"
+  width="600"
+  height="300"
+/>
+</a>
+</a>
 
 ##  Tech Stack
 
